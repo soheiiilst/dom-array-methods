@@ -1,7 +1,7 @@
 # DOM ARRAY METHODS
 
 ### RandomUser API ;)
-#### -----------------------------
+#### [https://soheiiilst.github.io/dom-array-methods/](https://soheiiilst.github.io/dom-array-methods/)
 <h2 align="center">
   <a href="https://img.techpowerup.org/200804/dom-array-methods.png" target="_blank"><img src="https://img.techpowerup.org/200804/dom-array-methods.png" border="0" alt="dom-array-methods" /></a>
   <br>
